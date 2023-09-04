@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zero Cancer</string>
+    <string name="title_activity_main">Zero Cancer</string>
+    <string name="package_name">africa.zerocancer.app</string>
+    <string name="custom_url_scheme">africa.zerocancer.app</string>
+</resources>
